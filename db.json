@@ -1,0 +1,83 @@
+{
+    "platillos": [
+        {
+            "id": 1,
+            "nombre": "Cuarto de Libra",
+            "precio": 30,
+            "categoria": 1            
+        },
+        {
+            "id": 2,
+            "nombre": "Whopper",
+            "precio": 30,
+            "categoria": 1
+        },
+        {
+            "id": 3,
+            "nombre": "Cheeseburger",
+            "precio": 30,
+            "categoria": 1
+        },
+        {
+            "id": 4,
+            "nombre": "Americana",
+            "precio": 30,
+            "categoria": 1
+        },
+        {
+            "id": 5,
+            "nombre": "Clásica",
+            "precio": 30,
+            "categoria": 1
+        },
+        {
+            "id": 6,
+            "nombre": "Blue Bacon",
+            "precio": 30,
+            "categoria": 1
+        },
+        {
+            "id": 7,
+            "nombre": "Spicy Emme",
+            "precio": 30,
+            "categoria": 1
+        },
+        {
+            "id": 8,
+            "nombre": "JTQ",
+            "precio": 30,
+            "categoria": 1
+        },
+        {
+            "id": 9,
+            "nombre": "Papas Fritas",
+            "precio": 30,
+            "categoria": 2
+        },
+        {
+            "id": 10,
+            "nombre": "Aros de Cebolla",
+            "precio": 30,
+            "categoria": 2
+        },
+        {
+            "id": 11,
+            "nombre": "Gaseosa",
+            "precio": 30,
+            "categoria": 3
+        },
+        {
+            "id": 12,
+            "nombre": "Cerveza",
+            "precio": 30,
+            "categoria": 3
+        },
+        {
+            "id": 13,
+            "nombre": "Agua",
+            "precio": 30,
+            "categoria": 3
+        }
+    
+    ]
+}
